@@ -1,1 +1,6 @@
 *.ipynb linguist-vendored
+*.Jupyter linguist-detectable=false
+*.sql linguist-detectable=true
+*.java linguist-detectable=false
+*.csv linguist_detectable=true
+*.markdown linguist_detectable=true
